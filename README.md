@@ -1,6 +1,6 @@
 # Download here: https://bashcandicoot.itch.io/dead-kitty
 
-![Alt Text](https://i.imgur.com/ITGbk5h.gif)
+![Alt Text](https://imgur.com/ITGbk5h)
 
 Click START to begin
 
