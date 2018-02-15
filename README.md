@@ -1,5 +1,7 @@
 # Dead Kitty
 
+# Download here: https://bashcandicoot.itch.io/dead-kitty
+
 Click START to begin
 
 Left click = Jump
